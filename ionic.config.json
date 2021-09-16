@@ -1,0 +1,7 @@
+{
+  "name": "seminarioIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
